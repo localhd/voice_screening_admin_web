@@ -77802,7 +77802,7 @@ $1(a){var s=null,r=A.Ya(B.am,0.5)
 return A.bq(s,A.iy(A.an(a,s,s,s,s,s,s),s,s),B.n,s,s,new A.dc(s,s,r,s,s,s,B.aw),s,40,s,new A.a2(8,0,8,0),s,s,s)},
 $S:504}
 A.agT.prototype={
-$2(a4,a5){var s,r,q,p,o,n,m,l,k,j,i,h,g,f,e,d=this,c=null,b=d.b,a=b.as,a0=a.a.a.length!==0&&b.at.a.a.length===6&&B.b.E(A.b(["men","women"],t.i),d.a.a)?new A.agK(d.a,b,a4):c,a1=A.an("\uc774\ub984",c,c,c,A.a4(c,c,B.l,c,c,c,c,c,c,c,c,12,c,c,B.A,c,c,!0,c,c,c,c,c,c,c,c),c,c),a2=A.ah(c,4,c),a3=d.c
+$2(a4,a5){var s,r,q,p,o,n,m,l,k,j,i,h,g,f,e,d=this,c=null,b=d.b,a=b.as,a0=a.a.a.length!==0&&b.at.a.a.length===6&&B.b.E(A.b(["man","woman"],t.i),d.a.a)?new A.agK(d.a,b,a4):c,a1=A.an("\uc774\ub984",c,c,c,A.a4(c,c,B.l,c,c,c,c,c,c,c,c,12,c,c,B.A,c,c,!0,c,c,c,c,c,c,c,c),c,c),a2=A.ah(c,4,c),a3=d.c
 a=A.dA(c,a,d.d,c,new A.agL(a5),c,c,c,A.a4(c,c,c,c,c,c,c,c,c,c,c,14,c,c,c,c,c,!0,c,c,c,c,c,c,c,c))
 s=A.ah(c,24,c)
 r=A.an("\uc0dd\ub144\uc6d4\uc77c",c,c,c,A.a4(c,c,B.l,c,c,c,c,c,c,c,c,12,c,c,B.A,c,c,!0,c,c,c,c,c,c,c,c),c,c)
@@ -77812,10 +77812,10 @@ o=A.dA(c,b.at,a3,c,new A.agM(a5),c,"ex) 910102",c,A.a4(c,c,c,c,c,c,c,c,c,c,c,14,
 n=A.ah(c,24,c)
 m=A.an("\uc131\ubcc4",c,c,c,A.a4(c,c,B.l,c,c,c,c,c,c,c,c,12,c,c,B.A,c,c,!0,c,c,c,c,c,c,c,c),c,c)
 l=d.a
-k=l.a==="men"?1:0.5
+k=l.a==="man"?1:0.5
 k=A.tp(A.dn($.dl(),A.cc(24),A.an("\ub0a8\uc131",c,c,c,A.a4(c,c,B.f,c,c,c,c,c,c,c,c,14,c,c,B.A,c,c,!0,c,c,c,c,c,c,c,c),B.bx,c),c,c,new A.agN(l,a5),new A.a2(16,8,16,8),c),k)
 j=A.ah(c,c,16)
-i=l.a==="women"?1:0.5
+i=l.a==="woman"?1:0.5
 h=t.t
 g=d.f
 f=d.r
@@ -77862,14 +77862,14 @@ A.agG.prototype={
 $0(){},
 $S:1}
 A.agN.prototype={
-$0(){this.a.a="men"
+$0(){this.a.a="man"
 this.b.$1(new A.agF())},
 $S:1}
 A.agF.prototype={
 $0(){},
 $S:1}
 A.agO.prototype={
-$0(){this.a.a="women"
+$0(){this.a.a="woman"
 this.b.$1(new A.agE())},
 $S:1}
 A.agE.prototype={
